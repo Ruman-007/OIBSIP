@@ -1,0 +1,55 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content:space-between ;
+}
+.flex{
+    display: flex;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.bold{
+    font-weight: bold;
+}
+.color{
+    background-color: aquamarine;
+}
+.topleft{
+    width: 50%;
+    height: 50vh;
+}
+.topright{
+    width:50%;
+    height: 50vh;
+}
+.justify-center{
+    justify-content: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.section1{
+    height: 50vh;
+}
+.my-1{
+    margin-top:13px;
+    margin-bottom:13px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
